@@ -10,13 +10,13 @@ I don't know what I'm doing. Improvements always welcome. For feedback/suggestio
 
 * [Introducing Types](types_intro.md) (!)
 
-* [Control Statements](control-statements.md) (!)
+* [Control Statements](control_statements.md) (!)
 
 * [Loops](loops.md) (!)
 
 * [Operators](operators.md) (!)
 
-* [Functions](functions.md) (!)
+* [Functions](functions_intro.md) (!)
 
 
 | Legend |                   |
