@@ -14,17 +14,20 @@ In programming, variables are just that - some information that we give a name t
 Variables are created by assigning values to a particular name using the assignment operator (`=`):
 ```python
  > variable = 'value'
- #            ^     ^ quotes define strings (a text data type, more on this in the next section)
+ #            ^     ^ quotes define strings (a text data type, more on this later)
  > author = 'Sherlock Holmes'
  > quote = 'Elementary, my dear Watson.'
  > year = 1915
 ```
 Variables can be reassigned:
 ```python
+ > variable = 'a different value'
  > author = 'Wodehouse'
 ```
 And the information stored in the variables can be recalled:
 ```python
+ > variable
+=> 'a different value'
  > quote
 => 'Elementary, my dear Watson.'
  > author
