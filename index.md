@@ -1,19 +1,22 @@
 
 I don't know what I'm doing. Improvements always welcome. For feedback/suggestions please drop a note to [yapt@openanswer.io](mailto:yapt@openanswer.io).
 
-## [Introduction](intro.md)
+# Table of contents
+* * *
 
-## [Variables](variables.md)
+* [Introduction](intro.md)
 
-## [Types](types-intro.md)
+* [Variables](variables.md)
 
-## [Control Statements](control-statements.md)
+* [Types](types-intro.md)
 
-## [Loops](loops.md)
+* [Control Statements](control-statements.md)
 
-## [Operators](operators.md)
+* [Loops](loops.md)
 
-## [Functions](functions.md)
+* [Operators](operators.md)
+
+* [Functions](functions.md)
 
 
 
