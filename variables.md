@@ -13,8 +13,9 @@ In programming, variables are just that - some information that we give a name t
 
 Variables are created by assigning values to a particular name:
 ```python
- > quote = 'Elementary, my dear Watson.'
  > author = 'Sherlock Holmes'
+ #          ^               ^ quotes define strings (a text data type, more on this in the next section)
+ > quote = 'Elementary, my dear Watson.'
  > year = 1915
 ```
 Variables can be reassigned:
