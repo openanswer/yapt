@@ -24,8 +24,17 @@ Variables can be reassigned:
  > variable = 'a different value'
  > author = 'Wodehouse'
 ```
+Can contain other variables:
+```python
+ > a = 1
+ > b = a
+```
 And the information stored in the variables can be recalled:
 ```python
+ > a
+=> 1
+ > b
+=> 1
  > variable
 => 'a different value'
  > quote
@@ -34,15 +43,6 @@ And the information stored in the variables can be recalled:
 => 'Wodehouse'
  > year
 => 1915
-```
-Variables can contain other variables:
-```python
- > a = 1
- > b = a
- > a
-=> 1
- > b
-=> 1
 ```
 
 
