@@ -34,7 +34,6 @@ And the information stored in the variables can be recalled:
 
 
 
-
-| Previous                 | Home              | Next                    |
-|:-------------------------|:-----------------:|------------------------:|
-| [Introduction](intro.md) | [Home](index.md)  | [Types](types-intro.md) |
+| [Previous (Introduction)](intro.md) | [Home](index.md) | [Next (Types)](types_intro.md) |
+|:------------------------------------|:----------------:|-------------------------------:|
+|                                     |                  |                                |
