@@ -15,3 +15,4 @@ Finally, this tutorial is hosted on GitHub pages (pages allow me to just use a b
 
 | [Previous (Home)](index.md) | [Home](index.md) | [Next (Variables)](variables.md) |
 |:----------------------------|:----------------:|---------------------------------:|
+|                             |                  |                                  |
