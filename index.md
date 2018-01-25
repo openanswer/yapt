@@ -6,7 +6,7 @@ I don't know what I'm doing. Improvements always welcome. For feedback/suggestio
 
 * [Introduction](intro.md) (*)
 
-* [Variables](variables.md) (...)
+* [Variables](variables.md) (*)
 
 * [Introducing Types](types_intro.md) (!)
 
