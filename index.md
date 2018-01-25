@@ -1,5 +1,5 @@
 
-I don't know what I'm doing. Improvements always welcome. For feedback/suggestions please email yapt@openanswer.io.
+I don't know what I'm doing. Improvements always welcome. For feedback/suggestions please email [yapt@openanswer.io](mailto:yapt@openanswer.io).
 
 ## [Introduction](intro.md)
 
