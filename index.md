@@ -1,1 +1,19 @@
-# [Introduction](intro.md)
+
+I don't know what I'm doing. Improvements always welcome. For feedback/suggestions please email yapt@openanswer.io.
+
+## [Introduction](intro.md)
+
+## [Variables](variables.md)
+
+## [Types](types-intro.md)
+
+## [Control Statements](control-statements.md)
+
+## [Loops](loops.md)
+
+## [Operators](operators.md)
+
+## [Functions](functions.md)
+
+
+
