@@ -8,7 +8,7 @@ I don't know what I'm doing. Improvements always welcome. For feedback/suggestio
 
 * [Variables](variables.md) (...)
 
-* [Types](types-intro.md) (!)
+* [Types](types_intro.md) (!)
 
 * [Control Statements](control-statements.md) (!)
 
