@@ -8,6 +8,8 @@ I don't know what I'm doing. Improvements always welcome. For feedback/suggestio
 
 * [Variables](variables.md) (*)
 
+* [Operators](operators.md) (...)
+
 * [Introducing Types](types_intro.md) (!)
 
 * [Control Statements](control_statements.md) (!)
