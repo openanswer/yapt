@@ -46,6 +46,6 @@ And the information stored in the variables can be recalled:
 ```
 
 
-| [Previous (Introduction)](intro.md) | [Home](index.md) | [Next (Introducing Types)](types_intro.md) |
-|:------------------------------------|:----------------:|-------------------------------------------:|
-|                                     |                  |                                            |
+| [Previous (Introduction)](intro.md) | [Home](index.md) | [Next (Operators)](operators_intro.md) |
+|:------------------------------------|:----------------:|---------------------------------------:|
+|                                     |                  |                                        |
