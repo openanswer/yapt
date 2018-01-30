@@ -18,10 +18,9 @@ We have already come across the assignment operator (` = `) in the [previous sec
 ```
 <details>
   <summary>What do you think the output of <code>a_slightly_more_secure_password</code> will be? Expand to reveal</summary>
-  
-  ```python
-     # Well, it would be the same as:
-     > 'dolph!ns' + ' ' + '111' 
-    => 'dolp!ns 111'
-  ```
+  <pre><code class='highlighter-rouge'>
+ # Well, it would be the same as:
+ > 'dolph!ns' + ' ' + '111' 
+=> 'dolp!ns 111'
+  </code></pre>
 </details>
