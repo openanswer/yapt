@@ -8,14 +8,13 @@
 >
 > All are quiet for a long while before the mathematician says, "You know, if one more person walks into that building it will be empty."
 
-We have already come across the assignment operator (` = `) in the [previous section](variables.md), where we used it to assign values to a meaningful name that represents that value:
-
+We have already come across the assignment operator (` = `) in the [previous section](variables.md), where we used it to assign values to a variable name. Let us do the same here:
 ```python
  > entered = 2
  > walked_out = 3
 ```
 
-Now let us use a couple of the arithmetic operators to see what's going on in the mathematician's mind:
+Now we can use a couple of arithmetic operators to see what's going on in the mathematician's mind:
 ```python
  > remaining = entered - walked_out
  > remaining
@@ -35,6 +34,22 @@ Here is a full list of the Python arithmetic operators:
 | `%`      | Modulus        |             |         |
 | `**`     | Exponent       |             |         |
 | `//`     | Floor Division |             |         |
+
+You can actually use a Python console as a calculator (try it!):
+```python
+ > 2/3
+=> 0.6666666666666666
+ > 2//3
+=> 0
+ > 2**3
+=> 8
+ > 2 + 3/5
+=> 2.6
+ > (2 + 3)/5
+=> 1.0
+ > 2*3 + 2**3
+=> 14 
+```
 
 Some of the above operators also work on non numeric [data types](types_intro.md):
 
