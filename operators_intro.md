@@ -68,7 +68,9 @@ Some of the above operators also work on non numeric [data types](types_intro.md
 </details>
 
 ```python
-# FIXME: Organize this. Do data types and operators belong together? How do we explain string concatenation?
+# FIXME: Organize this.
+#        Do data types and operators belong together?
+#        How do we explain string concatenation?
 ```
 
 | [Previous (Variables)](variables.md) | [Home](index.md) | [Next (Types)](types_intro.md) |
