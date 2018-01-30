@@ -19,7 +19,7 @@ We have already come across the assignment operator (` = `) in the [previous sec
 <details>
   <summary>Expand to reveal the output</summary>
   <pre><code class='highlighter-rouge'> # Well, it would be the same as:
- > 'dolph!ns' + ' ' + '111' 
-=> 'dolp!ns 111'  </code></pre>
+ > 'dolph!ns' + ' ' + '111'
+=> 'dolp!ns 111'</code></pre>
 </details>
 
