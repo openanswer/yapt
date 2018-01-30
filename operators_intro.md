@@ -27,13 +27,13 @@ Here is a full list of the Python arithmetic operators:
 
 | Operator | Name           | Description | Example |
 |:--------:|:--------------:|:------------|:--------|
-| `+`      | Addition       |             |         |
-| `-`      | Subtraction    |             |         |
-| `*`      | Multiplication |             |         |
-| `/`      | Division       |             |         |
-| `%`      | Modulus        |             |         |
-| `**`     | Exponent       |             |         |
-| `//`     | Floor Division |             |         |
+| `+`      | Addition       |    ...      |  ...    |
+| `-`      | Subtraction    |    ...      |  ...    |
+| `*`      | Multiplication |    ...      |  ...    |
+| `/`      | Division       |    ...      |  ...    |
+| `%`      | Modulus        |    ...      |  ...    |
+| `**`     | Exponent       |    ...      |  ...    |
+| `//`     | Floor Division |    ...      |  ...    |
 
 You can actually use a Python console as a calculator (try it!):
 ```python
@@ -67,6 +67,9 @@ Some of the above operators also work on non numeric [data types](types_intro.md
 => 'dolp!ns 111'</code></pre>
 </details>
 
+```python
+# FIXME: Organize this. Do data types and operators belong together? How do we explain string concatenation?
+```
 
 | [Previous (Variables)](variables.md) | [Home](index.md) | [Next (Types)](types_intro.md) |
 |:-------------------------------------|:----------------:|-------------------------------:|
