@@ -11,7 +11,7 @@ A **`quote`** for _`"Elementary, my dear Watson."`_, and an **`author`** for _`S
 You may have then changed the **`author`** to _`Wodehouse`_.
 In programming, variables are just that - some information we name in order to later recall it.
 
-Variables are created by assigning values to a particular name using the assignment operator (`=`):
+Variables are created by assigning values to a particular name using the assignment operator (` = `):
 ```python
  > variable = 'value'
  #            ^     ^ quotes define strings (a text data type, more on this later)
