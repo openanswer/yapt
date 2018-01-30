@@ -17,10 +17,7 @@ We have already come across the assignment operator (` = `) in the [previous sec
 ```
 <details>
   <summary>What do you think the output of <code>a_slightly_more_secure_password</code> will be? Expand to reveal</summary>
-<p>
-
   <code>
-   => 'dolp!ns111'
+ => testestestest'dolp!ns111'
   </code>
-</p>
 </details>
