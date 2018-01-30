@@ -11,13 +11,16 @@
 We have already come across the assignment operator (` = `) in the [previous section](variables.md), where we used it to assign values to a meaningful name that represents that value:
 ```python
  > password = 'dolph!ns'       # this is not my password and you should never store passwords in code
+ > a_single_space = ' '
  > my_favorite_number = '111'  # again, note the quotes, this is different from 111 (without quotes), more on this in the next section
- > a_slightly_more_secure_password = password + my_favorite_number
+ > a_slightly_more_secure_password = password + a_single_space + my_favorite_number
  > a_slightly_more_secure_password
 ```
 <details>
   <summary>What do you think the output of <code>a_slightly_more_secure_password</code> will be? Expand to reveal</summary>
   <code>
- => testestestest'dolp!ns111'
+  # Well, it would be the same as:
+  > 'dolph!ns' + ' ' + '111' 
+ => 'dolp!ns 111'
   </code>
 </details>
