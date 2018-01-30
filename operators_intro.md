@@ -23,3 +23,7 @@ We have already come across the assignment operator (` = `) in the [previous sec
 => 'dolp!ns 111'</code></pre>
 </details>
 
+
+| [Previous (Variables)](variables.md) | [Home](index.md) | [Next (Types)](types_intro.md) |
+|:-------------------------------------|:----------------:|-------------------------------:|
+|                                      |                  |                                |
