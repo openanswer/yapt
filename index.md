@@ -1,5 +1,4 @@
-
-I don't know what I'm doing. Improvements always welcome. For feedback/suggestions please drop a note to [support@openanswer.io](mailto:support@openanswer.io).
+I am fairly experienced in Python, however there are certainly gaps in my knowledge. Improvements always welcome. For feedback/suggestions please drop a note to [support@openanswer.io](mailto:support@openanswer.io).
 
 # Table of Contents
 * * *
