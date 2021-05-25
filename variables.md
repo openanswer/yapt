@@ -6,7 +6,7 @@ Did you know that Holmes never said that particular phrase in any of the books?
 Turns out the quote [was first used by P. G. Wodehouse, in Psmith Journalist, 1915](https://www.phrases.org.uk/meanings/elementary-my-dear-watson.html).
 The **`author`** of the **`quote`** turned out to be _`P. G. Wodehouse`_, not _`Holmes`_ nor _`Sir Arthur Conan Doyle`_!
 
-After reading the quote above you probably almost subconsciously created two variables.
+After reading the paragraph above you probably almost subconsciously created two variables.
 A **`quote`** for _`"Elementary, my dear Watson."`_, and an **`author`** for _`Sherlock Holmes`_ or _`Sir Arthur Conan Doyle`_.
 You may have then changed the **`author`** to _`Wodehouse`_.
 In programming, variables are just that - some information we name in order to later recall it.
