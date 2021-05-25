@@ -8,7 +8,7 @@ The **`author`** of the **`quote`** turned out to be _`P. G. Wodehouse`_, not _`
 
 After reading the paragraph above you probably almost subconsciously created two variables.
 A **`quote`** for _`"Elementary, my dear Watson."`_, and an **`author`** for _`Sherlock Holmes`_ or _`Sir Arthur Conan Doyle`_.
-You may have then changed the **`author`** to _`Wodehouse`_.
+You may have then changed the **`author`** to _`P. G. Wodehouse`_.
 In programming, variables are just that - some information we name in order to later recall it.
 
 Variables are created by assigning values to a particular name using the assignment operator (` = `):
